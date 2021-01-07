@@ -21,3 +21,9 @@ I will develop these applications: [GitHub repo](https://github.com/florinpop17/
 ### Day 3: January 6, 2021
 
 **Todays' Progress:** I finished to develop application business logic and I startetd to read documentation about unit testing.
+
+
+### Day 4: January 7, 2021
+
+**Todays' Progress:** Ultimated widget testing and started to develop circleci pipelines 
+
